@@ -1,0 +1,11 @@
+/* 第一種文字陰影效果（orange 背景感覺） */
+.orange-shadow {
+  color: black;
+  text-shadow: 4px 4px orange;
+}
+
+/* 第二種文字陰影效果（gray+silver） */
+.gray-shadow {
+  color: black;
+  text-shadow: 4px 4px gray, 8px 8px silver;
+}
